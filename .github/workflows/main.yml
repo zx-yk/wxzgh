@@ -40,7 +40,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install setuptools wheel twine 
         pip install requests
-        pip install json
         pip install datetime
       # 构建和发布
     - name: Build and publish
