@@ -85,7 +85,7 @@ if __name__ == '__main__':
     appId = 'wx0ba8ab3d5dd8ec0d'
     appSecret = '4b3d6cbf754ba8e57c3c63a8e4f8e294'
     # 要发送人的openId列表
-    openIdList = ['ofngy51wcjExzAiFlLCLOrTYIiG8','ofngy54YIdPePMHO7MWqBN3krPBQ']
+    openIdList = ['ofngy51wcjExzAiFlLCLOrTYIiG8','ofngy54YIdPePMHO7MWqBN3krPBQ','ofngy591lXjfEmr89FdjxS12ZzCI']
     # openIdList = ['ofngy51wcjExzAiFlLCLOrTYIiG8']
     # 模版Id
     templateId = 'EC4ThFNAtVf1bzCKi30TW92heI1Cibgn0-v626lPZsM'
